@@ -1,5 +1,7 @@
 git clone <remote-path>
+
 Create a copy of a remote Git repository.
+
 git remote
 List remote repositories.
 git remote add <remote-name> <remote-path>
